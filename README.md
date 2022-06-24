@@ -1,11 +1,11 @@
 {
   "Version": "1.0.6",
   "ReleaseNotes": "@VEM_BRABO\nconfigs novas para todas as operadoras",
-  "UrlUpdate": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlUpdate",
-  "Sms": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlSms",
-  "EmailFeedback": "ultranetvpn@gmail.com",
-  "UrlContato": "https://t.me/VEM_BRABO",
-  "UrlTermos": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/TERMOS%20DE%20USO.html",
+  "UrlUpdate": "",
+  "Sms": "",
+  "EmailFeedback": "pedeleft14@gmail.com",
+  "UrlContato": "",
+  "UrlTermos": "",
   "CheckUser": "true",
   "UdpPort": "7100;7200;7300;7400;7500;7600;7700",
   "Servers": [
